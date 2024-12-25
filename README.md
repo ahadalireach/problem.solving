@@ -7,6 +7,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1580-shuffle-the-array](https://github.com/ahadalireach/problem.solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
