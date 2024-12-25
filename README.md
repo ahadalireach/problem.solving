@@ -6,6 +6,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/ahadalireach/problem.solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
@@ -30,6 +31,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
