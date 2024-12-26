@@ -18,6 +18,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ahadalireach/problem.solving/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
