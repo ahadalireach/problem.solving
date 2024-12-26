@@ -6,7 +6,7 @@ class Solution
             unordered_set<char> us;
             int count = 0;
 
-            for (const auto &jew: jewels)
+            for (auto &jew: jewels)
                 us.insert(jew);
 
             for (const auto &sto: stones)
@@ -17,13 +17,13 @@ class Solution
         }
 };
 // Time complexity: O(n)
-// Space complexity: O(1)
+// Space complexity: O(n)
 
 // map<char, int> count;
-// //counting all stones
+//	//counting all stones
 // for (int i = 0; i < stones.size(); i++)
 //     count[stones[i]]++;
 
-// //sum all valid jewels stone
+//	//sum all valid jewels stone
 // for (int i = 0; i < jewels.size(); i++)
 //     ans += count[jewels[i]];
