@@ -17,6 +17,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahadalireach/problem.solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -53,6 +54,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
