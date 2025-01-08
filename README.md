@@ -27,6 +27,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
