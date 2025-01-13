@@ -7,6 +7,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ahadalireach/problem.solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ahadalireach/problem.solving/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
