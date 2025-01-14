@@ -116,6 +116,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -133,4 +134,12 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
