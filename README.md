@@ -117,6 +117,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ahadalireach/problem.solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -138,8 +139,10 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ahadalireach/problem.solving/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ahadalireach/problem.solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
