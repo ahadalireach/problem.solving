@@ -91,6 +91,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ahadalireach/problem.solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
@@ -108,6 +109,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ahadalireach/problem.solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
