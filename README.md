@@ -20,6 +20,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0345-reverse-vowels-of-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ahadalireach/problem.solving/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -79,6 +81,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
