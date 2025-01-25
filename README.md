@@ -22,6 +22,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1319-unique-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/ahadalireach/problem.solving/tree/master/1580-shuffle-the-array) |
@@ -102,6 +103,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
