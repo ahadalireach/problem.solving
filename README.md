@@ -32,6 +32,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1392-find-the-difference-of-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
