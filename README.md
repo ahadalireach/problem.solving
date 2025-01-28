@@ -7,6 +7,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ahadalireach/problem.solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ahadalireach/problem.solving/tree/master/0056-merge-intervals) |
@@ -68,6 +69,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ahadalireach/problem.solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ahadalireach/problem.solving/tree/master/0202-happy-number) |
