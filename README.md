@@ -142,6 +142,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0069-sqrtx](https://github.com/ahadalireach/problem.solving/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ahadalireach/problem.solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
@@ -203,4 +204,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0203-remove-linked-list-elements](https://github.com/ahadalireach/problem.solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ahadalireach/problem.solving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
