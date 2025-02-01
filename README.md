@@ -21,6 +21,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -174,6 +175,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
