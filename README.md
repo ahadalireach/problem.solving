@@ -47,6 +47,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahadalireach/problem.solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ahadalireach/problem.solving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahadalireach/problem.solving/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -107,6 +108,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +130,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
 ## Dynamic Programming
@@ -186,6 +189,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ahadalireach/problem.solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ahadalireach/problem.solving/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
