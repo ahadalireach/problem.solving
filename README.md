@@ -60,6 +60,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ahadalireach/problem.solving/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
@@ -127,6 +128,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0013-roman-to-integer](https://github.com/ahadalireach/problem.solving/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ahadalireach/problem.solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ahadalireach/problem.solving/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
@@ -218,4 +220,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ahadalireach/problem.solving/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
