@@ -132,6 +132,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ahadalireach/problem.solving/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ahadalireach/problem.solving/tree/master/2752-sum-multiples) |
 ## Counting
 |  |
