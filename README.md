@@ -60,6 +60,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3312-number-of-changing-keys](https://github.com/ahadalireach/problem.solving/tree/master/3312-number-of-changing-keys) |
 ## Simulation
 |  |
 | ------- |
