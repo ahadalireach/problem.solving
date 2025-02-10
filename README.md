@@ -22,6 +22,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ahadalireach/problem.solving/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -174,6 +176,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0232-implement-queue-using-stacks](https://github.com/ahadalireach/problem.solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
