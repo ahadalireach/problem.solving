@@ -8,3 +8,9 @@ public:
         return hours.size() - count;
     }
 };
+
+// int count = 0;
+// for(int hour : hours)
+//     if(hour >= target) 
+//         count++;
+// return count;
