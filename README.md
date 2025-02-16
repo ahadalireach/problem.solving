@@ -152,6 +152,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahadalireach/problem.solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ahadalireach/problem.solving/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -186,6 +187,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1610-xor-operation-in-an-array) |
 ## Stack
 |  |
 | ------- |
