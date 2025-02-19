@@ -41,6 +41,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/ahadalireach/problem.solving/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahadalireach/problem.solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ahadalireach/problem.solving/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -90,6 +91,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/ahadalireach/problem.solving/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
