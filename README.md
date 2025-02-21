@@ -162,6 +162,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahadalireach/problem.solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ahadalireach/problem.solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -252,6 +253,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ahadalireach/problem.solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
