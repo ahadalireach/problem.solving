@@ -1,21 +1,21 @@
-class Solution {
-public:
-    bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> seen(nums.begin(), nums.end());
-        return seen.size() < nums.size();
-    }
+class Solution
+{
+    public:
+        bool containsDuplicate(vector<int> &nums)
+        {
+            unordered_set<int> seen;
+            for (auto &num: nums)
+            {
+                if (seen.count(num))
+                    return true;
+                seen.insert(num);
+            }
+            return false;
+        }
 };
 
-// Time complexity: O(n)
-// Space complexity: O(n)
-
-// unordered_set<int> seen;
-// for(auto& num : nums){
-//     if(seen.count(num))
-//         return true;
-//     seen.insert(num);
-// }
-// return false;
+// unordered_set<int> seen(nums.begin(), nums.end());
+// return seen.size() < nums.size();
 
 // sort(nums.begin(), nums.end());
 // for(int i = 0; i < nums.size() - 1; i++)
