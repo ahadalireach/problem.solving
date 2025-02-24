@@ -41,6 +41,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ahadalireach/problem.solving/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahadalireach/problem.solving/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -86,6 +87,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
@@ -117,6 +119,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
