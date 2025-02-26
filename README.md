@@ -14,6 +14,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0088-merge-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ahadalireach/problem.solving/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
@@ -207,6 +208,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ahadalireach/problem.solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ahadalireach/problem.solving/tree/master/1610-xor-operation-in-an-array) |
 ## Stack
