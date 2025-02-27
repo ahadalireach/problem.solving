@@ -28,6 +28,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/ahadalireach/problem.solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/ahadalireach/problem.solving/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/1319-unique-number-of-occurrences) |
@@ -118,6 +119,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/ahadalireach/problem.solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
@@ -132,6 +134,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/ahadalireach/problem.solving/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/ahadalireach/problem.solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/ahadalireach/problem.solving/tree/master/3321-type-of-triangle) |
