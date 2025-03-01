@@ -34,6 +34,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1319-unique-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ahadalireach/problem.solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/ahadalireach/problem.solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
@@ -97,6 +98,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ahadalireach/problem.solving/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ahadalireach/problem.solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/ahadalireach/problem.solving/tree/master/2714-left-and-right-sum-differences) |
@@ -241,6 +243,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ahadalireach/problem.solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
