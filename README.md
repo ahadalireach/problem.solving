@@ -16,6 +16,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ahadalireach/problem.solving/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
@@ -133,6 +134,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0056-merge-intervals](https://github.com/ahadalireach/problem.solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ahadalireach/problem.solving/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0013-roman-to-integer](https://github.com/ahadalireach/problem.solving/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ahadalireach/problem.solving/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ahadalireach/problem.solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
@@ -192,6 +195,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
@@ -236,6 +240,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ahadalireach/problem.solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 ## Union Find
 |  |
 | ------- |
