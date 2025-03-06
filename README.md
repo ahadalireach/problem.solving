@@ -54,6 +54,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [3194-find-words-containing-character](https://github.com/ahadalireach/problem.solving/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ahadalireach/problem.solving/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -172,6 +173,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2752-sum-multiples](https://github.com/ahadalireach/problem.solving/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ahadalireach/problem.solving/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ahadalireach/problem.solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ahadalireach/problem.solving/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
@@ -269,6 +272,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/ahadalireach/problem.solving/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
