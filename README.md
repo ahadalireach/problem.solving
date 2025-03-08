@@ -324,4 +324,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ahadalireach/problem.solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
