@@ -327,5 +327,6 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ahadalireach/problem.solving/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ahadalireach/problem.solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
