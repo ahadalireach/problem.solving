@@ -48,6 +48,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ahadalireach/problem.solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ahadalireach/problem.solving/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahadalireach/problem.solving/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -205,6 +206,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ahadalireach/problem.solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0374-guess-number-higher-or-lower](https://github.com/ahadalireach/problem.solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ahadalireach/problem.solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ahadalireach/problem.solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
