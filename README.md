@@ -80,6 +80,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0742-to-lower-case](https://github.com/ahadalireach/problem.solving/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -242,6 +243,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0234-palindrome-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ahadalireach/problem.solving/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
