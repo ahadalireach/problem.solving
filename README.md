@@ -89,6 +89,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/ahadalireach/problem.solving/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/ahadalireach/problem.solving/tree/master/3312-number-of-changing-keys) |
+| [3447-clear-digits](https://github.com/ahadalireach/problem.solving/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/ahadalireach/problem.solving/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0682-baseball-game](https://github.com/ahadalireach/problem.solving/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/ahadalireach/problem.solving/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/ahadalireach/problem.solving/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
