@@ -87,6 +87,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ahadalireach/problem.solving/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/ahadalireach/problem.solving/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/ahadalireach/problem.solving/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/ahadalireach/problem.solving/tree/master/3447-clear-digits) |
@@ -177,6 +178,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ahadalireach/problem.solving/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ahadalireach/problem.solving/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -211,6 +213,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ahadalireach/problem.solving/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ahadalireach/problem.solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ahadalireach/problem.solving/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ahadalireach/problem.solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
