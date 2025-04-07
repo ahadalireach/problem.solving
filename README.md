@@ -58,6 +58,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ahadalireach/problem.solving/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/ahadalireach/problem.solving/tree/master/3330-modify-the-matrix) |
 ## String
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahadalireach/problem.solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/ahadalireach/problem.solving/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahadalireach/problem.solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/ahadalireach/problem.solving/tree/master/3330-modify-the-matrix) |
 ## Linked List
 |  |
 | ------- |
