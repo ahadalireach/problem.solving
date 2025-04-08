@@ -89,6 +89,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ahadalireach/problem.solving/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/ahadalireach/problem.solving/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/ahadalireach/problem.solving/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/ahadalireach/problem.solving/tree/master/3447-clear-digits) |
@@ -139,6 +140,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2128-reverse-prefix-of-word](https://github.com/ahadalireach/problem.solving/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2551-apply-operations-to-an-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
