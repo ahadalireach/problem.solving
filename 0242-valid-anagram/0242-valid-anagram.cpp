@@ -26,21 +26,24 @@ public:
 
 // Approach 2
 
+// unordered_map<char, int> sFreq;
+// unordered_map<char, int> tFreq;
+// for (int i = 0; i < s.length(); i++) {
+//     sFreq[s[i]]++;
+//     tFreq[t[i]]++;
+// }
+// return sFreq == tFreq;
+
+// Time complexity: O(n + m)
+// Space complexity: O(1) (Only 26 letters are possible, so the map has at most 26 keys)
+
+
+// Approach 3
+
 // unordered_map<char, int> freqMap;
 // for(char ss : s){
 //     freqMap[ss]++;
 // }
-// for(char tt : t){
-//     if(freqMap[tt] <= 0){
-//         return false;
-//     }
-//     freqMap[tt]--;
-// }
-// return true;
-
-
-// Approach 3 (Just Difference in Second Loop)
-
 // for(char tt : t){
 //     freqMap[tt]--;
 // }
