@@ -10,6 +10,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -42,4 +43,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
