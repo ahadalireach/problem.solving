@@ -25,6 +25,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0014-longest-common-prefix](https://github.com/ahadalireach/problem.solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
@@ -60,4 +62,9 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
