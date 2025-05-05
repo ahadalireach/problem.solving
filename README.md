@@ -16,6 +16,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
@@ -67,4 +69,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
