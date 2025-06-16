@@ -18,11 +18,13 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
