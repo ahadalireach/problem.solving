@@ -18,6 +18,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
+| [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 ## Queue
 |  |
 | ------- |
