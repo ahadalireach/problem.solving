@@ -12,6 +12,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
