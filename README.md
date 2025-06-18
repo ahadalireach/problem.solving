@@ -29,6 +29,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -61,6 +62,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahadalireach/problem.solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -83,6 +85,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
