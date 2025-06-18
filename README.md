@@ -11,6 +11,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
@@ -68,11 +69,13 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ahadalireach/problem.solving/tree/master/0258-add-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
