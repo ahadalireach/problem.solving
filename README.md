@@ -38,6 +38,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -60,6 +61,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0014-longest-common-prefix](https://github.com/ahadalireach/problem.solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ahadalireach/problem.solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0345-reverse-vowels-of-a-string) |
