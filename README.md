@@ -70,6 +70,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/ahadalireach/problem.solving/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -147,4 +148,5 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ahadalireach/problem.solving/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
