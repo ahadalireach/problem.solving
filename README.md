@@ -14,6 +14,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
@@ -145,6 +146,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
