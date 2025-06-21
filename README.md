@@ -10,6 +10,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ahadalireach/problem.solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
@@ -149,4 +151,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ahadalireach/problem.solving/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
