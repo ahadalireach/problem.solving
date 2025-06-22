@@ -11,6 +11,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ahadalireach/problem.solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ahadalireach/problem.solving/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
