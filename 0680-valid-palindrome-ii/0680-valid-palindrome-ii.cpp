@@ -23,3 +23,20 @@ public:
         return true;
     }
 };
+
+// Approach 1
+
+// bool isPalindrome(string s) {
+//     int l = 0, r = s.size() - 1;
+//     while(l < r){
+//         if(s[l++] != s[r--]) return false;
+//     }
+//     return true;
+// }
+// bool validPalindrome(string s) {
+//     for(int i = 0; i < s.size(); i++){
+//         string temp = s.substr(0, i) + s.substr(i+1);
+//         if(isPalindrome(temp)) return true;
+//     }
+//     return isPalindrome(s);
+// }
