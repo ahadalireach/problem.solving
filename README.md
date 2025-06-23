@@ -7,6 +7,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ahadalireach/problem.solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ahadalireach/problem.solving/tree/master/0036-valid-sudoku) |
@@ -59,6 +60,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ahadalireach/problem.solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
@@ -91,6 +93,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ahadalireach/problem.solving/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahadalireach/problem.solving/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
