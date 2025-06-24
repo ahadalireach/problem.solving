@@ -34,6 +34,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0242-valid-anagram](https://github.com/ahadalireach/problem.solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
