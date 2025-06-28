@@ -26,6 +26,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -227,5 +228,6 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
