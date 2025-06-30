@@ -23,6 +23,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0217-contains-duplicate](https://github.com/ahadalireach/problem.solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ahadalireach/problem.solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ahadalireach/problem.solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +151,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahadalireach/problem.solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -202,6 +204,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -236,6 +239,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ahadalireach/problem.solving/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ahadalireach/problem.solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -243,4 +247,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
