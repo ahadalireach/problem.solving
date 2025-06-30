@@ -63,6 +63,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -95,6 +96,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -167,6 +169,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0219-contains-duplicate-ii](https://github.com/ahadalireach/problem.solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
