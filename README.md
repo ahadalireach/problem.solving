@@ -166,6 +166,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ahadalireach/problem.solving/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
 ## Design
@@ -258,4 +259,8 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
