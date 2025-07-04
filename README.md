@@ -53,6 +53,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahadalireach/problem.solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ahadalireach/problem.solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ahadalireach/problem.solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ahadalireach/problem.solving/tree/master/0125-valid-palindrome) |
@@ -251,6 +253,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ahadalireach/problem.solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ahadalireach/problem.solving/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ahadalireach/problem.solving/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/ahadalireach/problem.solving/tree/master/0567-permutation-in-string) |
