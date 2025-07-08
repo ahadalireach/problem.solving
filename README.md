@@ -260,6 +260,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ahadalireach/problem.solving/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ahadalireach/problem.solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -298,13 +299,16 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
