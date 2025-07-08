@@ -261,6 +261,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ahadalireach/problem.solving/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ahadalireach/problem.solving/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -294,4 +295,16 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0025-reverse-nodes-in-k-group](https://github.com/ahadalireach/problem.solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ahadalireach/problem.solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
