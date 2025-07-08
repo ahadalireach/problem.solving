@@ -142,6 +142,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ahadalireach/problem.solving/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -186,6 +187,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0206-reverse-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ahadalireach/problem.solving/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ahadalireach/problem.solving/tree/master/0143-reorder-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
