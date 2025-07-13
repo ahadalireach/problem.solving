@@ -183,6 +183,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ahadalireach/problem.solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ahadalireach/problem.solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ahadalireach/problem.solving/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ahadalireach/problem.solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ahadalireach/problem.solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ahadalireach/problem.solving/tree/master/0143-reorder-list) |
@@ -305,6 +306,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0102-binary-tree-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ahadalireach/problem.solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ahadalireach/problem.solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -313,6 +315,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ahadalireach/problem.solving/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ahadalireach/problem.solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -324,6 +327,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0102-binary-tree-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ahadalireach/problem.solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ahadalireach/problem.solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -334,5 +338,6 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0102-binary-tree-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ahadalireach/problem.solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ahadalireach/problem.solving/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
