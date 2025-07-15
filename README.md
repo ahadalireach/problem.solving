@@ -15,6 +15,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0036-valid-sudoku](https://github.com/ahadalireach/problem.solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ahadalireach/problem.solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0036-valid-sudoku](https://github.com/ahadalireach/problem.solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahadalireach/problem.solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ahadalireach/problem.solving/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ahadalireach/problem.solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ahadalireach/problem.solving/tree/master/0141-linked-list-cycle) |
@@ -157,6 +159,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -305,6 +308,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0100-same-tree](https://github.com/ahadalireach/problem.solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ahadalireach/problem.solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -338,6 +342,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0100-same-tree](https://github.com/ahadalireach/problem.solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ahadalireach/problem.solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ahadalireach/problem.solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
