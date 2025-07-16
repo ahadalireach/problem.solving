@@ -30,6 +30,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -211,6 +212,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
