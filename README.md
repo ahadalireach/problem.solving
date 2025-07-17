@@ -157,6 +157,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0412-fizz-buzz](https://github.com/ahadalireach/problem.solving/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ahadalireach/problem.solving/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
 |  |
 | ------- |
