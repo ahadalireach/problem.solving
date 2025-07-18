@@ -41,6 +41,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ahadalireach/problem.solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahadalireach/problem.solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
 ## Simulation
@@ -119,6 +120,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahadalireach/problem.solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahadalireach/problem.solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
