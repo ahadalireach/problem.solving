@@ -38,6 +38,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
+| [0907-koko-eating-bananas](https://github.com/ahadalireach/problem.solving/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ahadalireach/problem.solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/ahadalireach/problem.solving/tree/master/1580-shuffle-the-array) |
@@ -226,6 +227,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ahadalireach/problem.solving/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
