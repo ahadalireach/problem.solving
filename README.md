@@ -22,6 +22,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahadalireach/problem.solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ahadalireach/problem.solving/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ahadalireach/problem.solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahadalireach/problem.solving/tree/master/0189-rotate-array) |
@@ -221,6 +222,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0035-search-insert-position](https://github.com/ahadalireach/problem.solving/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ahadalireach/problem.solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahadalireach/problem.solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
