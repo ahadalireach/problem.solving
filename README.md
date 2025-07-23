@@ -211,6 +211,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ahadalireach/problem.solving/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -294,6 +295,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0144-binary-tree-preorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahadalireach/problem.solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ahadalireach/problem.solving/tree/master/0155-min-stack) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
