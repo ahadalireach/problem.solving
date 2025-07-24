@@ -37,6 +37,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/ahadalireach/problem.solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahadalireach/problem.solving/tree/master/0817-design-hashmap) |
@@ -296,11 +297,13 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0145-binary-tree-postorder-traversal](https://github.com/ahadalireach/problem.solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahadalireach/problem.solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ahadalireach/problem.solving/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ahadalireach/problem.solving/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ahadalireach/problem.solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ahadalireach/problem.solving/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ahadalireach/problem.solving/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
