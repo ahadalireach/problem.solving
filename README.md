@@ -38,6 +38,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0347-top-k-frequent-elements](https://github.com/ahadalireach/problem.solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ahadalireach/problem.solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ahadalireach/problem.solving/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/ahadalireach/problem.solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ahadalireach/problem.solving/tree/master/0816-design-hashset) |
@@ -235,6 +236,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0162-find-peak-element](https://github.com/ahadalireach/problem.solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahadalireach/problem.solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ahadalireach/problem.solving/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/ahadalireach/problem.solving/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/ahadalireach/problem.solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ahadalireach/problem.solving/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -242,6 +244,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ahadalireach/problem.solving/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/ahadalireach/problem.solving/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/ahadalireach/problem.solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ahadalireach/problem.solving/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -319,6 +322,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0424-longest-repeating-character-replacement](https://github.com/ahadalireach/problem.solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahadalireach/problem.solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ahadalireach/problem.solving/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ahadalireach/problem.solving/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ahadalireach/problem.solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ahadalireach/problem.solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ahadalireach/problem.solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
