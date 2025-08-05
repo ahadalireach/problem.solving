@@ -55,6 +55,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahadalireach/problem.solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahadalireach/problem.solving/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ahadalireach/problem.solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ahadalireach/problem.solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahadalireach/problem.solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ahadalireach/problem.solving/tree/master/3226-minimum-number-game) |
 ## Simulation
