@@ -127,6 +127,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [0459-repeated-substring-pattern](https://github.com/ahadalireach/problem.solving/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/ahadalireach/problem.solving/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ahadalireach/problem.solving/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/ahadalireach/problem.solving/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ahadalireach/problem.solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ahadalireach/problem.solving/tree/master/0812-rotate-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ahadalireach/problem.solving/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
