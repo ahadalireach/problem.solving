@@ -1,14 +1,17 @@
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
-        int res = 0;
-        for(auto operation : operations){
-            if(operation[1] == '-'){ // operation == "--X" || operation == "X--"
-                res--;
-            }else{
-                res++;
-            }
+        // 4 Operations
+        // Variable X = 0 ++ --
+
+        int x = 0;
+        for(string operation : operations){
+            if(operation == "X++" || operation == "++X")
+                x++;
+            else
+                x--;
         }
-        return res;
+
+        return x;
     }
 };
