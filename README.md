@@ -184,6 +184,7 @@ A GitHub repository that contains all the LeetCode problems I have solved, along
 | [1635-number-of-good-pairs](https://github.com/ahadalireach/problem.solving/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ahadalireach/problem.solving/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahadalireach/problem.solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/ahadalireach/problem.solving/tree/master/2752-sum-multiples) |
 ## Divide and Conquer
 |  |
 | ------- |
